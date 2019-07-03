@@ -1,0 +1,37 @@
+.box4{
+    width:375px;
+    height:276px;
+    padding-left:15px;
+    margin-top:20px;
+}
+.one4{
+    width: 100%;
+    height:23px;
+    display: flex;
+    justify-content: space-between
+}
+.one4 h3{
+    color:black
+}
+.box4 img{
+    width:107px;
+    height:146px;
+}
+/* .two4 ul li{
+    float: left;
+} */
+.two4{
+    height:190px;
+    width:360px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    margin-top:20px;
+}
+.two4 ul{
+    width:100%;
+    height:100%;
+    display: flex;
+}
+.two4 ul li{
+   margin-right: 10px;
+}

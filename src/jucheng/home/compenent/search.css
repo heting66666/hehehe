@@ -11,7 +11,7 @@
     position: absolute;
     z-index:9999
 }
-.one{
+.one1{
     width:50px;
     height:25px;
     border: 1px solid rgba(224, 224, 224, 0.418);
@@ -20,12 +20,12 @@
     align-items: center;
     font-size:12px;
 }
-.two>Input{
+.two1>Input{
     width:205px;
     height:25px;
     border-radius: 20px;
 }
-.three{
+.three1{
     width:23px;
     height:25px;
     background-color: red;

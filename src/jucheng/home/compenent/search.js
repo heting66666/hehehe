@@ -5,13 +5,13 @@ export default class Search extends Component {
     render() {
         return (
             <div  className="searchBox">
-                <div className="one">
+                <div className="one1">
                     <i className="iconfont icon-location"></i>全国
                 </div>
-                <div className="two">
+                <div className="two1">
                     <Input placeholder="搜素热门演出"/>
                 </div>
-                <div className="three">
+                <div className="three1">
                     <i className="iconfont icon-fenxiang"></i>
                 </div>
             </div>

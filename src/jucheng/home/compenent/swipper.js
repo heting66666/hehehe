@@ -10,11 +10,11 @@ export default class Swipper extends Component {
     }
   }
   componentDidMount() {
-    console.log(this.refs)
-    let container=this.refs[`swiper-container`]
-    let pagination=this.refs[`swiper-pagination`]
-    console.log(container)
-    console.log(pagination)
+    // console.log(this.refs)
+    // let container=this.refs[`swiper-container`]
+    // let pagination=this.refs[`swiper-pagination`]
+    // console.log(container)
+    // console.log(pagination)
     new Swiper( '.swiper-container', {
       observer:true,//修改swiper自己或子元素时，自动初始化swiper
       observeParents:true,//修改swiper的父元素时，自动初始化swiper
