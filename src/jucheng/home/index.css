@@ -1,0 +1,12 @@
+.box{
+    height:617px;
+    overflow-y: auto;
+    overflow-x:hidden;
+   
+}
+
+
+.contain{
+    display: flex;
+    flex-direction: column;
+}

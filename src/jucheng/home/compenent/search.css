@@ -1,0 +1,32 @@
+.searchBox{
+    height:37.5px;
+    width:100%;
+    display: flex;
+    justify-content:space-between;
+    padding:10px;
+    box-sizing: border-box;
+    position: fixed;
+    left: 0;
+    right: 0;
+    position: absolute;
+    z-index:9999
+}
+.one{
+    width:50px;
+    height:25px;
+    border: 1px solid rgba(224, 224, 224, 0.418);
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    font-size:12px;
+}
+.two>Input{
+    width:205px;
+    height:25px;
+    border-radius: 20px;
+}
+.three{
+    width:23px;
+    height:25px;
+    background-color: red;
+}

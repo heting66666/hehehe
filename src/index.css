@@ -1,0 +1,17 @@
+ .nav{
+    display: flex;
+    justify-content: space-around;
+    position: fixed;
+    right:0;
+    bottom: 0;
+    height:50px;
+    width:100%;
+}
+.nav>li>a{
+    display: inline-block;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color:#232323;
+    font-size:14px;
+}
