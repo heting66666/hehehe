@@ -1,4 +1,4 @@
-.swiper-slide img{
+#swiper2 .swiper-slide img{
    width:245px;
    height:140px;
    margin-top:20px;
@@ -14,6 +14,6 @@
     justify-content: space-between;
     padding-left:15px;
 }
-.swiper-slide p {
+#swiper2 .swiper-slide p {
     margin-top:5px;
 }

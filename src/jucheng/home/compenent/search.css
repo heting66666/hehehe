@@ -12,19 +12,26 @@
     z-index:9999
 }
 .one1{
-    width:50px;
-    height:25px;
+    width:60px;
+    height:30px;
     border: 1px solid rgba(224, 224, 224, 0.418);
     border-radius: 20px;
     display: flex;
     align-items: center;
-    font-size:12px;
+    font-size:14px;
+    color:white;
+    border: 1px solid hsla(0,0%,88%,.2);
+    background-color: rgba(0,0,0,.2);
 }
 .two1>Input{
-    width:205px;
+    width:240px;
     height:25px;
     border-radius: 20px;
+    border: 1px solid hsla(0,0%,88%,.2);
+    background-color: rgba(0,0,0,.2);
+    color:white
 }
+
 .three1{
     width:23px;
     height:25px;

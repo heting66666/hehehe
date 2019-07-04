@@ -9,7 +9,7 @@ export default class Search extends Component {
                     <i className="iconfont icon-location"></i>全国
                 </div>
                 <div className="two1">
-                    <Input placeholder="搜素热门演出"/>
+                    <Input value="搜素热门演出"/>
                 </div>
                 <div className="three1">
                     <i className="iconfont icon-fenxiang"></i>
